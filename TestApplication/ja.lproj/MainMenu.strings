@@ -1,15 +1,14 @@
-
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
-"5.title" = "Bring All to Front";
+"5.title" = "すべて前面に表示";
 
 /* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
-"19.title" = "Window";
+"19.title" = "ウィンドウ";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
-"23.title" = "Minimize";
+"23.title" = "最小化";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
-"24.title" = "Window";
+"24.title" = "ウィンドウ";
 
 /* Class = "NSMenu"; title = "MainMenu"; ObjectID = "29"; */
 "29.title" = "MainMenu";
@@ -21,34 +20,34 @@
 "57.title" = "Sparkle Test App";
 
 /* Class = "NSMenuItem"; title = "About Sparkle Test App"; ObjectID = "58"; */
-"58.title" = "About Sparkle Test App";
+"58.title" = "Sparkle Test App のバージョン情報";
 
 /* Class = "NSMenuItem"; title = "Open..."; ObjectID = "72"; */
-"72.title" = "Open...";
+"72.title" = "開く...";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
-"73.title" = "Close";
+"73.title" = "閉じる";
 
 /* Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; */
-"75.title" = "Save";
+"75.title" = "保存";
 
 /* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "77"; */
-"77.title" = "Page Setup…";
+"77.title" = "ページ設定…";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
-"78.title" = "Print…";
+"78.title" = "印刷…";
 
 /* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; */
-"80.title" = "Save As…";
+"80.title" = "名前を付けて保存…";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
-"81.title" = "File";
+"81.title" = "ファイル";
 
 /* Class = "NSMenuItem"; title = "New"; ObjectID = "82"; */
-"82.title" = "New";
+"82.title" = "新規";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
-"83.title" = "File";
+"83.title" = "ファイル";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
 "103.title" = "Help";
@@ -57,106 +56,107 @@
 "106.title" = "Help";
 
 /* Class = "NSMenuItem"; title = "Sparkle Test App Help"; ObjectID = "111"; */
-"111.title" = "Sparkle Test App Help";
+"111.title" = "Sparkle Test App ヘルプ";
 
 /* Class = "NSMenuItem"; title = "Revert"; ObjectID = "112"; */
-"112.title" = "Revert";
+"112.title" = "元に戻す";
 
 /* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
-"124.title" = "Open Recent";
+"124.title" = "最近開いた項目";
 
 /* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
-"125.title" = "Open Recent";
+"125.title" = "最近開いた項目";
 
 /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
-"126.title" = "Clear Menu";
+"126.title" = "メニューをクリア";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
-"130.title" = "Services";
+"130.title" = "サービス";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
-"131.title" = "Services";
+"131.title" = "サービス";
 
 /* Class = "NSMenuItem"; title = "Hide Sparkle Test App"; ObjectID = "134"; */
-"134.title" = "Hide Sparkle Test App";
+"134.title" = "Sparkle Test App を非表示";
 
 /* Class = "NSMenuItem"; title = "Quit Sparkle Test App"; ObjectID = "136"; */
-"136.title" = "Quit Sparkle Test App";
+"136.title" = "Sparkle Test App を終了";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
-"145.title" = "Hide Others";
+"145.title" = "ほかを非表示";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
-"150.title" = "Show All";
+"150.title" = "すべて表示";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
-"154.title" = "Find…";
+"154.title" = "検索…";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
-"155.title" = "Jump to Selection";
+"155.title" = "選択項目へジャンプ";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "157"; */
-"157.title" = "Copy";
+"157.title" = "コピー";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "158"; */
-"158.title" = "Undo";
+"158.title" = "元に戻す";
 
 /* Class = "NSMenu"; title = "Find"; ObjectID = "159"; */
-"159.title" = "Find";
+"159.title" = "検索";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "160"; */
-"160.title" = "Cut";
+"160.title" = "切り取り";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
-"161.title" = "Use Selection for Find";
+"161.title" = "選択項目を検索";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
-"162.title" = "Find Previous";
+"162.title" = "前を検索";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "163"; */
-"163.title" = "Edit";
+"163.title" = "編集";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "164"; */
-"164.title" = "Delete";
+"164.title" = "削除";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
-"167.title" = "Find Next";
+"167.title" = "次を検索";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
-"168.title" = "Find";
+"168.title" = "検索";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "169"; */
-"169.title" = "Edit";
+"169.title" = "編集";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "171"; */
-"171.title" = "Paste";
+"171.title" = "貼り付け";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "172"; */
-"172.title" = "Select All";
+"172.title" = "すべて選択";
 
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "173"; */
-"173.title" = "Redo";
+"173.title" = "やり直し";
 
 /* Class = "NSMenuItem"; title = "Spelling"; ObjectID = "184"; */
-"184.title" = "Spelling";
+"184.title" = "スペル";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
-"185.title" = "Spelling";
+"185.title" = "スペル";
 
 /* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
-"187.title" = "Spelling…";
+"187.title" = "スペル…";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
-"189.title" = "Check Spelling";
+"189.title" = "スペル チェック";
 
 /* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
-"191.title" = "Check Spelling as You Type";
+"191.title" = "入力中にスペルをチェック";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "197"; */
-"197.title" = "Zoom";
+"197.title" = "ズーム";
 
 /* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "204"; */
-"204.title" = "Paste and Match Style";
+"204.title" = "貼り付けてスタイルに合わせる";
 
 /* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "207"; */
-"207.title" = "Check for Updates…";
+"207.title" = "更新プログラムを確認…";
+
